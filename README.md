@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashraful
 - 👀 I’m interested in MERN Stack Web Development, SQA, Software Automation Testing, Selenium, Appium, Javascript, Python, Machine learning, & Ethical Hacking.
-- 🌱 I’m currently learning React & Software Automation Testing.
+- 🌱 I’m currently working with Decentralize app development and deployment on ICP.
 - 📫 Contact me by email: ashrafulislam4844@gmail.com
 
 <!---
